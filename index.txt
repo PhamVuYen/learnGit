@@ -1,1 +1,2 @@
 it's file khởi tạo
+đây là xét lỗi hotfix
