@@ -1,5 +1,5 @@
 you in develop branch
+day là bugfix
 you in release branch
 in login branch
 in logout branch
-
